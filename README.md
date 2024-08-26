@@ -7,7 +7,7 @@ A Python-based application for tracking personal income and expenses.
 - Record income and expenses
 - Categorize transactions
 - Generate reports (e.g., monthly summaries, category-wise breakdown)
-- Visualization Reporps
+- Visualization Reports
 
 ## Requirements
 
